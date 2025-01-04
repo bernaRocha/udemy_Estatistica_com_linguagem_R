@@ -50,3 +50,8 @@ soma_linhas  # 6 23
 
 soma_colunas <- colSums(matriz5)
 soma_colunas # 16 13
+
+# Matriz com caracteres
+
+matriz7 <- matrix(c('segunda', 'terça', 'quarta', 'quinta'), nrow = 2, ncol = 2, byrow=FALSE)
+matriz7
