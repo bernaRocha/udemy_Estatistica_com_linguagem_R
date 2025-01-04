@@ -5,7 +5,7 @@ m <- 4 * 9
 m = 4 * 7
 
 m
-print(m)
+print(m)   # 28
 
 # pode declarar usando o = também
 
